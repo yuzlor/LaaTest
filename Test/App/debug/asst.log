@@ -1,0 +1,20 @@
+[2023-12-10 17:16:09.666][TRC][Px7bdc][Tx538c]  -----------------------------
+[2023-12-10 17:16:09.667][TRC][Px7bdc][Tx538c]  MaaCore Process Start
+[2023-12-10 17:16:09.668][TRC][Px7bdc][Tx538c]  Version DEBUG VERSION
+[2023-12-10 17:16:09.668][TRC][Px7bdc][Tx538c]  Built at Dec 10 2023 17:00:20
+[2023-12-10 17:16:09.668][TRC][Px7bdc][Tx538c]  User Dir 
+[2023-12-10 17:16:09.668][TRC][Px7bdc][Tx538c]  -----------------------------
+[2023-12-10 17:16:09.668][TRC][Px7bdc][Tx538c] ©° asst::Assistant::Assistant | enter
+[2023-12-10 17:16:09.669][TRC][Px7bdc][Tx538c] ©¸ asst::Assistant::Assistant | leave, 5 ms
+[2023-12-10 17:25:57.467][TRC][Px55e8][Tx5164]  -----------------------------
+[2023-12-10 17:25:57.467][TRC][Px55e8][Tx5164]  MaaCore Process Start
+[2023-12-10 17:25:57.468][TRC][Px55e8][Tx5164]  Version DEBUG VERSION
+[2023-12-10 17:25:57.468][TRC][Px55e8][Tx5164]  Built at Dec 10 2023 17:00:20
+[2023-12-10 17:25:57.468][TRC][Px55e8][Tx5164]  User Dir 
+[2023-12-10 17:25:57.468][TRC][Px55e8][Tx5164]  -----------------------------
+[2023-12-10 17:25:57.468][TRC][Px55e8][Tx5164] ©° asst::Assistant::Assistant | enter
+[2023-12-10 17:25:57.470][TRC][Px55e8][Tx5164] ©¸ asst::Assistant::Assistant | leave, 2 ms
+[2023-12-10 17:25:57.471][TRC][Px55e8][Tx5164] ©° asst::Assistant::start | enter
+[2023-12-10 17:25:57.471][INF][Px55e8][Tx5164] ©¦ Start | block
+[2023-12-10 17:25:57.471][TRC][Px55e8][Tx7d0c] ©¦©° asst::Assistant::working_proc | enter
+[2023-12-10 17:25:57.472][TRC][Px55e8][Tx5164] ©¸©à asst::Assistant::start | leave, 0 ms
